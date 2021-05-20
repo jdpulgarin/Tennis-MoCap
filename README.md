@@ -12,3 +12,16 @@ Contributors:
 - Santiago Ramos-Bermudez, Universidad de Caldas, Colombia
 - Andres Marino Alvarez-Meza, Universidad Nacional de Colombia Sede Manizales, Colombia
 - German Castellanos, Universidad Nacional de Colombia Sede Manizales, Colombia
+
+![image](https://user-images.githubusercontent.com/83523497/119055456-b3532f80-b98e-11eb-9d2e-83daf66e82f8.png)
+Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+If you publish results obtained using this data, please cite
+
+Pulgarin-Giraldo J.D., Alvarez-Meza A.M., Melo-Betancourt L.G., Ramos-Bermudez S., Castellanos-Dominguez G.
+A Similarity Indicator for Differentiating Kinematic Performance Between Qualified Tennis Players.
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+10125 LNCS, pp. 309-317, 2017
+https://doi.org/10.1007/978-3-319-52277-7_38
+
+
